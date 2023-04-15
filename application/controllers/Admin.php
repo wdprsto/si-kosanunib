@@ -221,9 +221,6 @@ class Admin extends CI_Controller {
 
     }
 
- 
-
-
     function get_hostel_room ($dormitory_id){
         //$sections = $this->db->get_where('tb_kamarkosan', array('kamarkosan_id_kosan' => $dormitory_id))->result_array();
         
