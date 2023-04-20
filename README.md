@@ -1,5 +1,5 @@
 # Sistem Informasi Kosan UNIB
-Sistem Informasi Manajemen Kosan, berfungsi untuk melakukan pengelolaan dan pencatatan terhadap hunian kos-kosan yang dimiliki oleh pengelola. Aplikasi ini dibangun dengan CodeIgniter 3.
+Sistem Informasi Manajemen Kosan, berfungsi untuk melakukan pengelolaan dan pencatatan terhadap hunian kos-kosan yang dimiliki oleh pengelola. Aplikasi ini dibangun dengan CodeIgniter 3. Melalui aplikasi ini, pemilik kosan diharapkan dapat lebih mudah dalam mengelola penghuni kos-kosan yang mereka miliki.
 
 ```
 adminsuper@admin.com
